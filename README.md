@@ -1,0 +1,1 @@
+# adminlte3-template-rails-implementation
